@@ -1,3 +1,7 @@
+## Fork Introduction 基于v2.1.0
+- 预计新增两个功能：
+- 1、执行器中定义的job自动注册到调度中心
+- 2、调度中心支援 https：https://github.com/xuxueli/xxl-job/issues/1014
 <p align="center">
     <img src="https://raw.githubusercontent.com/xuxueli/xxl-job/master/doc/images/xxl-logo.jpg" width="150">
     <h3 align="center">XXL-JOB</h3>
@@ -38,7 +42,6 @@ It's core design goal is to develop quickly and learn simple, lightweight, and e
 Now, it's already open source, and many companies use it in production environments, real "out-of-the-box".
 
 XXL-JOB是一个轻量级分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
-
 
 ## Documentation
 - [中文文档](http://www.xuxueli.com/xxl-job/)
